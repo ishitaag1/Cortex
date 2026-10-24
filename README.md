@@ -75,6 +75,3 @@ npm run dev
 - [ ] Evaluation suite for retrieval quality
 - [ ] Additional document formats
 
-## License
-
-MIT
